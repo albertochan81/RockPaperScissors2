@@ -1,0 +1,31 @@
+{
+  "tournaments": 1000,
+  "roundsPerMatch": 1000,
+  "players" : [
+    "Last Losing 1",
+    "Last Losing 2",
+    "Last Winning 1",
+    "Majority Losing 1",
+    "Majority Winning 1",
+    "Unbiased Random 1",
+    "Biased Random 1",
+    "Biased Random 2"
+  ],
+  "types" : [
+    "LastLosingMovePlayer",
+    "LastLosingMovePlayer",
+    "LastWinningMovePlayer",
+    "MajorityLosingMovePlayer",
+    "RandomMovePlayer",
+    "BiasedRandomMovePlayer"
+  ],
+  "weights" :
+  [
+    0.5,
+    0.25,
+    0.25,
+    0.8,
+    0.1,
+    0.1
+  ]
+}

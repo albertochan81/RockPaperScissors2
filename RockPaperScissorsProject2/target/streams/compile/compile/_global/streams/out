@@ -1,0 +1,9 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/albertos/Desktop/CS395 Project2/FunctionalRockPaperScissors-master/src/main/scala/fpinscala/state/State.scala:93:15: abstract type pattern A is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m      val (a: A, rng2: RNG) = s(rng)[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/albertos/Desktop/CS395 Project2/FunctionalRockPaperScissors-master/src/main/scala/please_refactor/rockpaperscissors/JsonParser.scala:23:30: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Left(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      resultOfParsing.flatMap(j => betterUnpackUsingForComprehension2(j)) match{[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.3); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
